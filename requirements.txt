@@ -1,0 +1,4 @@
+SpeechRecognition
+Wand
+pytesseract
+pyttsx3
