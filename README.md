@@ -24,7 +24,10 @@ Run this command to start the app:
 Happy Reading :)
 
 Built with ♥ by 
+
 [Manit Choudhary]<br/>
 [Ankur Gupta]<br/>
-[Siddharta Singh]<br/>
+[Siddhartha Kumar Singh]<br/>
 [Sujeet Kumar Singh](https://powerfist01.github.io/)
+
+
