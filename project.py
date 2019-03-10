@@ -52,10 +52,18 @@ while(True):
             keyboard.press_and_release('Page Down')
         if(input1 == "up"):
             keyboard.press_and_release('Page Up')
-        if(input1=="zoom in page"):
+        if(input1=="zoom in" or input1=="ZoomIn"):
             keyboard.press_and_release('Ctrl + =')
-        if(input1=="zoom out page"):
+        if(input1=="zoom out"):
             keyboard.press_and_release('Ctrl + -')
+        if(input1=="next page"):
+            keyboard.press_and_release('right')
+        if(input1=="previous page"):
+            keyboard.press_and_release('left')
+        
+        if(input1=="bye-bye"):
+            exit()
+
         if(input1 == "read the PDF"):
             for img in req_image:
                 output = pytesseract.image_to_string(PI.open(io.BytesIO(img)))
