@@ -26,5 +26,5 @@ Happy Reading :)
 Built with ♥ by 
 [Manit Choudhary]
 [Ankur Gupta]
-[Siddharta Singh]
+[Siddhartha Kumar Singh]
 [Sujeet Kumar Singh](https://powerfist01.github.io/)
