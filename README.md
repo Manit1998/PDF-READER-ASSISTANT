@@ -28,6 +28,6 @@ Built with ♥ by
 [Manit Choudhary]<br/>
 [Ankur Gupta]<br/>
 [Siddhartha Kumar Singh]<br/>
-[Sujeet Kumar Singh](https://powerfist01.github.io/)
+[Sujeet Kumar Singh](https://powerfist01.github.io/).
 
 
